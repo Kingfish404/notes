@@ -1,1 +1,10 @@
 *.pdf
+
+# office file
+*.doc
+*.docx
+*.ppt
+*.pptx
+
+# temp
+*temp*
