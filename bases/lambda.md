@@ -65,3 +65,4 @@ console.log({
 - [The Lambda Calculus - Computer Science, Columbia University](http://www.cs.columbia.edu/~sedwards/classes/2016/4115-spring/lambda.pdf)
 - [A λ-calculus interpreter by Tadeu Zagallo](https://tadeuzagallo.com/blog/writing-a-lambda-calculus-interpreter-in-javascript/)
 - [ES6函数与Lambda演算 | 小蘿蔔丁](https://juejin.cn/post/6844903549273391117)
+- [Lambda表达式与图灵完备](http://chillyc.info/2017/Lambda%E8%A1%A8%E8%BE%BE%E5%BC%8F%E4%B8%8E%E5%9B%BE%E7%81%B5%E5%AE%8C%E5%A4%87/)
