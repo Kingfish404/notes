@@ -1,6 +1,6 @@
 # Notes
 
-Jin Yu's personal notes, also individual knowledge base.
+Jin Yu's personal notes, also individual knowledge base. [source](https://github.com/kingfish404/notes).
 
 ## Catagory
 
