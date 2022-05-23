@@ -11,26 +11,29 @@ Lambda is a pure function that only combined with function's `input` and `output
 $\lambda$ to normal function.
 
 $$
-\lambda x . (x+1) \quad \hArr \quad f(x)=x+1 \quad \hArr \quad x+1=f(x)
+\lambda x . (x+1) \quad \Leftrightarrow \quad f(x)=x+1 \quad \Leftrightarrow \quad x+1=f(x)
 $$
 
 $\alpha - conversion$
 
 $$
-\lambda x.\lambda y.2*x+y \quad \hArr \quad \lambda y.\lambda x. 2*y+x
+\lambda x.\lambda y.2*x+y \quad \Leftrightarrow \quad \lambda y.\lambda x. 2*y+x
 $$
   
+$$
+$$
+
 $\beta - reduction$
 
 $$
-\lambda x.\lambda y. 2 * x + y \quad 3 \quad \rArr \quad \lambda y.2*3+y \quad \hArr \quad \lambda x.2*3 +x
+\lambda x.\lambda y. 2 * x + y \quad 3 \quad \rArr \quad \lambda y.2*3+y \quad \Leftrightarrow \quad \lambda x.2*3 +x
 $$
 
 $\eta - reduction$
 
 $$
 if \quad g(x) \equiv f(x) \quad \forall x \\
-\lambda x.g(x) \quad \hArr \quad \lambda x.f(x)
+\lambda x.g(x) \quad \Leftrightarrow \quad \lambda x.f(x)
 $$
 
 ## Code
