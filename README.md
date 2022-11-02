@@ -12,9 +12,11 @@ Jin Yu's personal notes, also individual knowledge base. [source](https://github
   - [frontend-base-point](./base-cs/frontend-base-point.md)
 - [Algorithm](./algorithm/)
   - [base](./algorithm/base.md)
-- [Security](./security)
+- [Security](./security/)
   - [meltdown-spectre](./security/meltdown-spectre.md)
   - [zombieload](./security/zombieload.md)
+- [Utils](./utils/)
+  - [proxy-server](./utils/proxy-server.md)
 
 ## License
 

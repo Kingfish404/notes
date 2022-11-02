@@ -16,13 +16,13 @@ lab server => client => proxyman => bussiness VPN => Github
 
 ```shell
 #!/bin/sh
-port=9909
+port=9090
 ip=`echo $SSH_CLIENT | awk '{print $1}'`
 
 export http_proxy=http://$ip:$port
 export https_proxy=http://$ip:$port
 
-curl http://ip-api.com/json/\?lang\=zh-CN
+curl http://ip-api.com/json/\?lang\=zh-CN & echo ""
 
 echo
 echo export http_proxy=http://$ip:$port

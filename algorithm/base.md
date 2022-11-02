@@ -19,6 +19,16 @@
 - GAN: Generative Adversarial Network
 - Transformer: Action is all you need
 
+## CV四大任务
+
+- Classification
+  - LeNet, AlexNet, ResNet, DenseNet
+- Location
+- Detection
+  - Two Stage: R-CNN, Faster-RCNN
+  - One Stage: YOLO, SSD, RetinaNet
+- Segmentation
+
 ## 算法框架/工具
 
 ### Optimizer: 优化器
